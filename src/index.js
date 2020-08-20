@@ -3,7 +3,7 @@ import ReactDOM from "react-dom";
 
 ReactDOM.render(
   <div>
-    <h1>Heading</h1>
+    <h1>Routine</h1>
     <ul>
       <li>Wake up</li>
       <li>Coffee</li>
